@@ -1,0 +1,15 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"00000002.moc",
+	"textures":[
+		"textures/00000004.png"
+	],
+	"motions":{
+		"idle":[
+			{"file":"motions/00000001.mtn","fade_in":0,"fade_out":0}
+		],
+		"attack":[
+			{"file":"motions/00000000.mtn","fade_in":0,"fade_out":0}
+		]
+	}
+}
